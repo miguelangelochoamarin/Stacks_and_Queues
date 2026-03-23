@@ -48,7 +48,7 @@ do
     Console.WriteLine("1. Apilar:");
     Console.WriteLine("2. Desapilar:");
     Console.WriteLine("3. Ver tope:");
-    Console.WriteLine("0. Salir:");
+    Console.WriteLine("0. Salir:"); 
     Console.Write("Digite su opcion:");
     return Console.ReadLine() ?? string.Empty;
 
